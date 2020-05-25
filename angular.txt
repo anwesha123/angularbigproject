@@ -1,0 +1,6 @@
+welcome to anwesha's angular project
+here i submit a complete new project angular
+backend should be done by node
+welcome everyone
+
+
